@@ -79,3 +79,5 @@ Once connected, you can ask Claude things like:
 ## License
 
 MIT
+
+<!-- mcp-name: io.github.SMABoundless/crossref -->
